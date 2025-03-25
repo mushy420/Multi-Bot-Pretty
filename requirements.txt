@@ -1,0 +1,6 @@
+
+discord.py==2.3.2
+python-dotenv==1.0.0
+coloredlogs==15.0.1
+asyncio==3.4.3
+aiohttp==3.9.1
